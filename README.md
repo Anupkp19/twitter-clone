@@ -1,5 +1,6 @@
 # Build and Deploy: TWITTER clone with React, Tailwind, Prisma, Mongo
 This is a repository for a FullStack Twitter clone tutorial using React, NextJS, TailwindCSS & Prisma.<br>
+
 Functionalities
 - Authentication system
 - Notification system
