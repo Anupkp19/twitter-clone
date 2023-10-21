@@ -11,7 +11,6 @@ We are going to learn funcionalities such as:
 - Following functionality
 - Comments / Replies
 - Likes functionality
-- Vercel Deployment
 
 ### Prerequisites
 
