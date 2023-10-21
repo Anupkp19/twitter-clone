@@ -19,7 +19,7 @@ We are going to learn funcionalities such as:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/twitter-clone.git
+git clone https://github.com/Anupkp19/twitter-clone-dockerized.git
 ```
 ### Install packages
 
