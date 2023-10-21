@@ -2,7 +2,7 @@ FROM node:18.17.0
 
 WORKDIR /usr/src/app
 
-ENV DATABASE_URL "mongodb+srv://anup:uOF9RmRvauFPqoPc@cluster0.j7qfseh.mongodb.net/twitter?retryWrites=true&w=majority"
+ENV DATABASE_URL "YOUR_DATABASE_URL"
 
 ENV NEXTAUTH_SECRET "secret"
 
